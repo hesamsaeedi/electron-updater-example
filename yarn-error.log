@@ -1,6 +1,3 @@
-node_modules
-dist/
-yarn.lock
 Arguments: 
   /usr/local/bin/node /usr/share/yarn/bin/yarn.js
 
