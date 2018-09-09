@@ -24,7 +24,7 @@
         "dmg"
       ]
     },
-    "Linux": {
+    "linux": {
       "target": [
         "AppImage"
       ]}
